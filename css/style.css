@@ -1245,7 +1245,7 @@ span.two, .item_tent {
 
   .soc.face {
     padding-left: 1px; } }
-@media (max-width: 375px) {
+@media (max-width: 415px) {
   .container {
     max-width: 320px;
     margin-left: 20px; }
